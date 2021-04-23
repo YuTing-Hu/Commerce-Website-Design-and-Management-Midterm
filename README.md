@@ -20,7 +20,7 @@
 			<div class="collapse navbar-collapse" id="collapsibleNavbar">
 				<ul class="navbar-nav">
 					<li class="nav-item">
-						<a class="nav-link" href="首頁.html">首頁</a>
+						<a class="nav-link" href="README.md">首頁</a>
 					</li> 
 					<li class="nav-item  dropdown">
 						<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">公司簡介</a>
